@@ -17,7 +17,7 @@ import static com.example.auser.idlegameinclass.R.id.textView;
 public class MainActivity extends AppCompatActivity {
 
     TextView tv1;
-    ImageView img1;
+    ImageView img1,img2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
