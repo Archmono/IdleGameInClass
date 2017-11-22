@@ -1,0 +1,34 @@
+{"mobsdata":
+  [
+    {
+      "id":"1001",
+      "name":"Poring波利",
+      "HP":5,
+      "pics":{
+        "pic1":"banana004",
+        "pic2":"tupian2",
+        "pic3":"tupian3"
+      },
+      "dropLoots":{
+        "loot1":"$100",
+        "loot2":"石頭",
+        "loot3":"垃圾"
+      }
+    },
+    {
+      "id":"1002",
+      "name":"Orc獸人",
+      "HP":20,
+      "pics":{
+        "pic1":"R.drawable.banana004",
+        "pic2":"tupian2",
+        "pic3":"tupian3"
+      },
+      "dropLoots":{
+        "loot1":"石頭",
+        "loot2":"垃圾",
+        "loot3":"木棒"
+      }
+    }
+  ]
+}
